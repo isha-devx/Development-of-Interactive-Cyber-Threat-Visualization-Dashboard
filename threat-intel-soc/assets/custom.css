@@ -1,0 +1,13 @@
+body { margin:0; background:#03080e; overflow:hidden; }
+* { box-sizing:border-box; }
+::-webkit-scrollbar { width:4px; height:4px; }
+::-webkit-scrollbar-track { background:transparent; }
+::-webkit-scrollbar-thumb { background:rgba(255,255,255,0.08); border-radius:2px; }
+.dark-dropdown .Select-control { background:rgba(255,255,255,0.04)!important; border:1px solid rgba(255,255,255,0.08)!important; color:#94a3b8; border-radius:8px; }
+.dark-dropdown .Select-menu-outer { background:#0d1a28!important; border:1px solid rgba(255,255,255,0.08)!important; }
+.dark-dropdown .Select-option { background:transparent!important; color:#94a3b8!important; font-size:11px; }
+.dark-dropdown .Select-option:hover { background:rgba(0,217,255,0.08)!important; }
+.dark-dropdown .Select-value-label { color:#94a3b8!important; font-size:11px; }
+.dark-dropdown .Select-placeholder { color:#334155!important; font-size:11px; }
+.dark-dropdown input { color:#94a3b8!important; }
+.nav-item:hover { background:rgba(0,217,255,0.05)!important; color:#94a3b8!important; border:1px solid rgba(0,217,255,0.1)!important; }
