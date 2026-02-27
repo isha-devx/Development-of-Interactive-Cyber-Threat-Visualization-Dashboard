@@ -14,6 +14,12 @@ It simulates a live cyber threat intelligence monitoring platform with interacti
 
 ---
 
+## 🎥 Project Demo
+
+<video src="./cybershield-demo.mp4" controls width="700"></video>
+
+---
+
 ## 🚀 Project Overview
 
 CyberShield simulates real-time threat monitoring by generating procedural cyber attack data inspired by major threat intelligence platforms like:
