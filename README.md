@@ -14,9 +14,9 @@ It simulates a live cyber threat intelligence monitoring platform with interacti
 
 ---
 
-## 🎥 Project Demo
+## 🎬 Live Project Demonstration
 
-<video src="./cybershield-demo.mp4" controls width="700"></video>
+▶️ [Click here to watch the demo video](./cybershield-demo.mp4)
 
 ---
 
