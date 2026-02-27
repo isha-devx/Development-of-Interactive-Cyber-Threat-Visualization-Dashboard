@@ -20,6 +20,13 @@ https://github.com/user-attachments/assets/fdcce52e-b52e-4ce1-a2fc-68f3755586ce
 
 ---
 
+## 📊 Project Presentation
+
+[Presentation.pptx](https://github.com/user-attachments/files/25607367/Presentation.pptx)
+
+
+---
+
 ## 🚀 Project Overview
 
 CyberShield simulates real-time threat monitoring by generating procedural cyber attack data inspired by major threat intelligence platforms like:
