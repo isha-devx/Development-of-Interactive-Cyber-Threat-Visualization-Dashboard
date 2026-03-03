@@ -16,7 +16,7 @@ It simulates a live cyber threat intelligence monitoring platform with interacti
 
 ## 🎬 Live Project Demonstration
 
-
+https://github.com/user-attachments/assets/6b887194-f261-429f-b73a-c3eb453c3e60
 
 ---
 
